@@ -4,6 +4,10 @@ _The Monaco font with a bold variant_
 
 ## Examples
 
+**Monaco - Original**
+
+![Monaco](https://raw.github.com/vjpr/monaco-bold/master/Monaco.png)
+
 **MonacoB**
 
 ![MonacoB](https://raw.github.com/vjpr/monaco-bold/master/MonacoB/MonacoB.png)
