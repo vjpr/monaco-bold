@@ -2,6 +2,11 @@
 
 _The Monaco font with a bold variant_
 
+## Examples
+
+![MonacoB](raw/master/MonacoB/MonacoB.png)
+![MonacoB2](raw/master/MonacoB2/MonacoB2.png)
+
 ## Motivation
 
 My favorite fixed-width programming font is Monaco 10pts. I develop in IntelliJ on OSX which uses boldness as part of its syntax highlighting. Unfortunately Monaco doesn't include a bold variant. Initially I thought it would be easy to find a replacement font with a bold variant, but I was not happy with any of the replacements. Some replacements I looked at were: Consolas, Inconsolata, Droid Sans Mono and Bitstream Vera Sans Mono.
