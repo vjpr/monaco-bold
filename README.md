@@ -1,3 +1,5 @@
+![Monaco](https://raw.github.com/vjpr/monaco-bold/master/logo.png)
+
 # Monaco Bold
 
 _The Monaco font with a bold variant_
@@ -22,10 +24,11 @@ My favorite fixed-width programming font is Monaco 10pts. I develop in IntelliJ 
 
 ## The Fonts
 
-I have created two fonts with different weights for the bold variant. You may be asking why I didn't use variants such as Semi-Bold or Extra-Bold. The reason for this is IntelliJ's (and I'm guessing other editors) syntax highlighting doesn't allow creating highlighting rules for font variants other than bold, italic.
+I have created three fonts with different weights for the bold variant. You may be asking why I didn't use variants such as Semi-Bold or Extra-Bold. The reason for this is IntelliJ's (and I'm guessing other editors) syntax highlighting doesn't allow creating highlighting rules for font variants other than bold, italic.
 
 - MonacoB - bold (20% transform)
-- MonacoB2 - bolder (40% transform)
+- MonacoBSemi - bolder (30% transform)
+- MonacoB2 - boldest (40% transform)
 
 `Monaco.dfont` is the original font from OSX.
 
