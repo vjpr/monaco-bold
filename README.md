@@ -1,6 +1,6 @@
 # Monego
 
-## The beloved Monaco monospaced font recreatd with a bold and italic variant. Finally.
+## The beloved Monaco monospaced font, recreatd with a bold and italic variant. Finally.
 
 Bold and italic variants of Monaco were originally recreated by @vjpr but seem to be abandoned now. Font integration problems were fixed by me.
 
