@@ -14,10 +14,4 @@ Bold and italic variants of Monaco were originally created by @vjpr but seem to 
 
 ## Install
 
-### OSX
-
 Select all variants you like to install, drag-and-drop into `Font Book > User` or double-click and select `Install font` from the dialog.
-
-## How?
-
-The new fonts were created by transforming height and width of each glyph, and modifying the font meta-data to allow it to be installed side-by-side with the system Monaco.
