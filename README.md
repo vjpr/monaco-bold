@@ -1,14 +1,10 @@
 # Monego
 
-## The beloved Monaco monospaced font, recreatd with a bold and italic variant. Finally.
+## The beloved Monaco monospaced font, recreated with bold and italic variants. Finally.
 
-Bold and italic variants of Monaco were originally recreated by @vjpr but seem to be abandoned now. Font integration problems were fixed by me.
+Bold and italic variants of Monaco were originally recreated by @vjpr but seem to be abandoned now. Font integration problems were fixed by me. Bold-italic version by @kokoko3k.
 
-## The Fonts
-
-- Monego: The regular variant you already know
-- Monego bold: A bold version
-- Monego italic: A italic version
+## The fonts variants
 
 ![Monego](https://raw.github.com/cseelus/monego/master/monego_example.png)
 
