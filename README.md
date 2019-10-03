@@ -8,6 +8,8 @@ Bold and italic variants of Monaco were originally recreated by @vjpr but seem t
 
 ![Monego](https://raw.github.com/cseelus/monego/master/monego_example.png)
 
+A patched version with ligatures made with [Ligaturizer 2.0](https://github.com/rojiani/Ligaturizer-2.0) is also available.
+
 ## Install
 
 Select all variants you like to install, drag-and-drop into `Font Book > User` or double-click and select `Install font` from the dialog.
