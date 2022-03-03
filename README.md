@@ -8,9 +8,10 @@ Bold and italic variants of Monaco were originally recreated by @vjpr but seem t
 
 ![Monego](https://raw.github.com/cseelus/monego/master/monego_example.png)
 
-A patched version with ligatures made with [Ligaturizer 2.0](https://github.com/rojiani/Ligaturizer-2.0) is also available.
+A patched version with ligatures made with [Ligaturizer 2.0](https://github.com/ToxicFrog/Ligaturizer) is also available.  
+NOTE: Due to [a unresolved issue with Ligaturizer](https://github.com/ToxicFrog/Ligaturizer/issues/74), the kerning is not ideal.
 
-Another patched version with ligatures and glyphs made with a [Nerd Font](https://github.com/ryanoasis/nerd-fonts) script is also available.
+Another patched version with ligatures and [Nerd Font](https://github.com/ryanoasis/nerd-fonts) glyps is also available.
 
 ## Install
 
